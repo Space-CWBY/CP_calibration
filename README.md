@@ -66,5 +66,4 @@ pip install -r requirements.txt
 - The physics-only search code used during internal development is not included in this public release.
 
 ## Citation
-If this code is used in academic work, please cite the associated publication  
-(citation details to be added upon publication).
+If this code is used in academic work, please cite our work.
